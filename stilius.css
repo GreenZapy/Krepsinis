@@ -1,0 +1,207 @@
+#first {
+	background-color: gray;
+	height: 80px;
+	width: auto;
+    font-size: 25px;    
+}
+
+body {
+    background-image: url(hale.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+* {
+box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+    font-family: 'Spartan', sans-serif;
+    
+	
+}
+
+nav {
+	width: 100%;
+	background-color: gray;
+	font-family: sans-serif;
+	
+}
+
+ul {
+	list-style: none;
+	text-align: right;
+}
+
+#du {
+	width: 120px;
+	 display: inline-block;
+    border-bottom: solid 5px;
+    border-bottom-color: #32CD32;
+    margin-right: 10px;
+}
+#vien {
+	width: 100px;
+	 display: inline-block;
+    margin-right: 10px;
+    
+}
+
+
+li a{
+	display: inline-block;
+	padding: 10px 10px;
+	text-decoration: none;
+	color: black;
+}
+
+li:hover{
+	background-color: #32CD32;
+}
+li:hover a{
+	color: white;
+}
+
+#du1 {
+	width: 135px;
+	 display: inline-block;
+	margin-right: 80px;
+}
+
+li {
+	background-color: white;
+    height: 45px;
+    margin-top: 20px;
+}
+
+#pirmas1 {
+float: left;
+    height: 80px;
+    margin-left: 30px;
+    padding-top: 5px;
+}
+
+
+#antras2 {
+    width: 100%;
+    height: 700px;
+}
+
+
+#pav {
+    background-image: url(lietuvos_krepsinio_rinktines_zaidejai.webp);
+    color: white;
+	background-repeat: no-repeat;
+    background-size: cover;
+    height:720px;
+	padding: 310px;
+    font-size: 90px;
+	text-align: center;
+   text-shadow: 3px 3px #32CD32;
+    
+}
+
+#myg {
+background-color: #32CD32;
+     position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  color: white;
+  font-size: 16px;
+  padding: 15px 60px;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+    margin-top: 220px;
+
+}
+
+
+#trecias3 {
+    background-color: white;
+    height: 490px;
+    width: 100%;
+}
+
+h2 {
+font-weight: 900px;
+    font-size: 29px;
+    border-bottom-color: #32CD32;
+    border-bottom-style: solid;
+    width: 128px;
+    padding-top:100px;;
+margin-left:100px ;
+}
+
+
+#pas1 {
+    
+    width: 750px;
+    text-align: justify;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+
+#Pav {
+    float: right;
+    margin-right: 150px;
+}
+
+
+#ketvirtas4{
+    
+    background-color: #32CD32;
+    width: 100%;
+    height: 350px;
+    position: relative;
+}
+
+#pas2 {
+width: 350px;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 100px;
+    display: inline-block;
+    margin-top: 60px;
+    border: 3px solid white;
+    border-radius: 15px 15px 15px 15px;
+    padding: 20px;
+    
+}
+
+
+#zaid {
+    width: 220px;
+    height: 220px;
+    display: inline-block;
+    margin-right: 90px;
+    border-radius: 17px 17px 17px 17px;
+}
+.zaid1 {
+    margin-left: 120px;
+}
+
+#penktas5{
+    width: 100%;
+    height: 350px;
+    background-image: url(hale.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background: rgba(255, 255, 255, .4);
+  -webkit-clip-path: url(#clippath);
+    
+    
+}
+
+h3 {
+    font-size: 30px;
+    color: white;
+    text-shadow: 1px 1px black;
+    padding-left: 50px;
+    padding-top: 50px;
+    
+}
